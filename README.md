@@ -16,6 +16,19 @@ Este é um projeto de carrinho de compras desenvolvido com React JS. Ele permite
 - CSS3: linguagem de estilo para estilizar a interface do usuário.
 - API do Mercado Livre: utilizada para obter dados de produtos.
 
+ ## Como utilizar
+
+1. Abra o terminal na pasta do projeto onde você baixou o código.
+2. Execute o seguinte comando para instalar as dependências:
+  ```bash
+   $ npm install
+  ```
+
+4. Após a conclusão da instalação, execute o seguinte comando para iniciar o servidor de desenvolvimento:
+```
+   npm start
+```
+
 ## Creditos ao autor
 Aula sobre o projeto:
 (https://www.youtube.com/playlist?list=PLdtmpu_1ITQKuHMG4s0wUMa55OdsYeWw0).
