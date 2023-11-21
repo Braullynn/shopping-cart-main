@@ -26,7 +26,7 @@ Este é um projeto de carrinho de compras desenvolvido com React JS. Ele permite
 
 4. Após a conclusão da instalação, execute o seguinte comando para iniciar o servidor de desenvolvimento:
 ```
-   npm start
+  $ npm start
 ```
 
 ## Creditos ao autor
